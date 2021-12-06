@@ -1,0 +1,97 @@
+{
+    "Header": {
+
+        "title": "Kitty Kad",
+        "paragraph": "First cute meme token for the Kadena blockchain"
+
+    },
+    "About": {
+        "paragraph": "Kitty Kad is a meme token designed to bring some light-hearted fun to the Kadena ecosystem. Hopefully it brings a wider and casual audience to the existing ecosystem, or at the very least generates some buzz"
+    },
+    "Highlights": [{
+            "icon": "fa fa-legal",
+            "name": "Fair launch",
+            "text": "All created tokens will be added to the LP"
+        },
+        {
+            "icon": "fa fa-road",
+            "name": "Clear roadmap",
+            "text": "To keep the community engaged as adoption grows"
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Open-source code",
+            "text": "The contract will be available publicly for anyone to audit and verify"
+        },
+
+        {
+            "icon": "fa fa-book",
+            "name": "Own history",
+            "text": "By owning one of the first meme tokens on Kadena"
+        },
+        {
+            "icon": "fa fa-money",
+            "name": "Easily tradable",
+            "text": "Trade it like other tokens on Kadena as it implements an ERC20-like interface"
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "name": "Social media",
+            "text": "Follow our updates on Reddit, Twitter or Discord"
+        }
+    ],
+    "Roadmap": [{
+            "icon": "fa fa-rocket",
+            "title": "Token launch - Q4 '21",
+            "text": "Fair launch will happen across DEX's on the Kadena ecosystem"
+        },
+        {
+            "icon": "fa fa-diamond",
+            "title": "NFTs - Q1 '22",
+            "text": "Cat themed NFTs coming to the Kadena blockchain"
+        },
+        {
+            "icon": "fa fa-gamepad",
+            "title": "Games and Dapps - Q2 '22",
+            "text": "Community themed games and dapps linked to the Kitty Kad token"
+        },
+        {
+            "icon": "fa fa-chain",
+            "title": "Cross-chain - H2 '22",
+            "text": "By using Kadena's bridges, the token will be available on other chains to allow more users to join"
+        }
+    ],
+    "Tokenomics": [{
+        "title": "100M Fixed Supply",
+        "text": "No inflation or deflation, however burning for NFTs will be possible"
+    },
+    {
+        "title": "Community Launch",
+        "text": "All initial supply went straight to Dexs"
+    },
+    {
+        "title": "Airdrops",
+        "text": "Some tokens will be bought by the team for community airdrops"
+    }
+],
+    "Socials": [{
+        "icon": "fa fa-reddit",
+        "link": "Fair launch will happen across DEX's on the Kadena ecosystem"
+    },
+    {
+        "icon": "fa fa-diamond",
+        "title": "NFTs - Q1 '22",
+        "text": "Cat themed NFTs coming to the Kadena blockchain"
+    },
+    {
+        "icon": "fa fa-gamepad",
+        "title": "Games and Dapps - Q2 '22",
+        "text": "Community themed games and dapps linked to the Kitty Kad token"
+    },
+    {
+        "icon": "fa fa-chain",
+        "title": "Cross-chain - H2 '22",
+        "text": "By using Kadena's bridges, the token will be available on other chains to allow more users to join"
+    }
+]
+}
