@@ -1,10 +1,14 @@
-## Kitty Kad token frontend
+## Instructions
 
 Run `yarn install` and `yarn start` to have it run locally. `yarn build` to get a public build
 
+## Purpose
+
+A frontend site to let people know about the Kitty Kad token
+
 ## Credits
 
-This is a fork from the https://github.com/wonderfullandingpage/mylandingpage , props to the author for the great work
+Thanks to the authors of the template https://github.com/wonderfullandingpage/mylandingpage for providing a base template
 
 ##### Free CSS
 
