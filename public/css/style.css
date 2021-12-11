@@ -244,7 +244,7 @@ header .intro-text {
 /* Features Section */
 #roadmap,
 #projects {
-  padding: 50px 0;
+  padding: 70px 0;
   background: #f6f6f6;
 }
 #roadmap i.fa,
@@ -313,7 +313,7 @@ header .intro-text {
 }
 /* Services Section */
 #highlights {
-  padding: 50px 0;
+  padding: 80px 0;
   background: linear-gradient(to right, #58b2ee 0%, #58b2ee 100%);
   color: #fff;
 }
