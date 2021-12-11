@@ -1,15 +1,16 @@
-export const Tokenomics = (props) => {
+export const Projects = (props) => {
   return (
-    <div id='tokenomics' style={{padding: "50px"}} className='text-center'>
+    <div id='projects' className='text-center'>
       <div className='container'>
-        <div className='col-md-10 col-md-offset-1 section-title' style={{marginBottom: 20}}>
-          <h2>Tokenomics</h2>
+        <div className='col-md-10 col-md-offset-1 section-title'>
+          <h2>Projects</h2>
         </div>
         <div className='row'>
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className='col-sm-6 col-md-3'>
                   {' '}
+                  <i className={d.icon}></i>
                   <h3>{d.title}</h3>
                   <p>{d.text}</p>
                 </div>

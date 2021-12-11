@@ -6,7 +6,7 @@
 
     },
     "About": {
-        "paragraph": "Kitty Kad is a meme token designed to bring some light-hearted fun to the Kadena ecosystem. Hopefully it brings a wider and casual audience to the existing ecosystem, or at the very least generates some buzz"
+        "paragraph": "Kitty Kad is a meme token designed to bring some light-hearted fun to the Kadena ecosystem. It will also be used to power a variety of NFT and game projects"
     },
     "Highlights": [{
             "icon": "fa fa-legal",
@@ -62,8 +62,12 @@
         }
     ],
     "Tokenomics": [{
-        "title": "100M Fixed Supply",
+        "title": "100M Initial Supply",
         "text": "No inflation or deflation, however burning for NFTs will be possible"
+    },
+    {
+        "title": "Token Burn",
+        "text": "Tokens will be burned when creating NFTs and playing games"
     },
     {
         "title": "Community Launch",
@@ -91,7 +95,28 @@
     {
         "icon": "fa fa-chain",
         "title": "Cross-chain - H2 '22",
-        "text": "By using Kadena's bridges, the token will be available on other chains to allow more users to join"
+        "text": "Via Kadena's bridges, the token will be available on more chains to allow more users to join"
+    }
+],
+    "Projects": [
+        {
+            "icon": "fa fa-diamond",
+            "title": "Kitty Kad NFTs",
+            "text": "Claim limited edition and unique randomly generated Kitty Kad NFTs by burning Kitty Kad tokens"
+        },{
+        "icon": "fa fa-gamepad",
+        "title": " NFTs + Games on flux",
+        "text": "Use your NFTs as characters or in game items for games hosted on Flux"
+    },
+    {
+        "icon": "fa fa-gamepad",
+        "title": "Competitions + Bets",
+        "text": "Wager Kitty Kad tokens in 1:1 challenges or organised competitions, winner takes the pot"
+    },
+    {
+        "icon": "fa fa-bar-chart",
+        "title": "Token Price Tracker",
+        "text": "Tool that tracks the price of tokens native to Kadena"
     }
 ]
 }

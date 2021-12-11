@@ -141,7 +141,7 @@ hr {
   background-color: #608dfd;
 }
 .section-title {
-  margin-bottom: 70px;
+  margin-bottom: 20px;
 }
 .section-title h2 {
   position: relative;
@@ -242,11 +242,13 @@ header .intro-text {
   text-align: center;
 }
 /* Features Section */
-#roadmap {
-  padding: 100px 0;
+#roadmap,
+#projects {
+  padding: 50px 0;
   background: #f6f6f6;
 }
-#roadmap i.fa {
+#roadmap i.fa,
+#projects i.fa {
   font-size: 38px;
   margin-bottom: 20px;
   transition: all 0.5s;
@@ -311,7 +313,7 @@ header .intro-text {
 }
 /* Services Section */
 #highlights {
-  padding: 100px 0;
+  padding: 50px 0;
   background: linear-gradient(to right, #58b2ee 0%, #58b2ee 100%);
   color: #fff;
 }

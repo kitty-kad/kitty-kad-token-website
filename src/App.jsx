@@ -7,7 +7,7 @@ import { Highlights } from './components/highlights'
 import { Footer } from './components/footer'
 import { Socials } from './components/socials'
 import { Tokenomics } from './components/tokenomics'
-
+import {Projects} from './components/projects'
 import JsonData from './data/data.json'
 import SmoothScroll from 'smooth-scroll'
 
@@ -30,6 +30,7 @@ const App = () => {
       <About data={landingPageData.About} />
       <Highlights data={landingPageData.Highlights} />
       <Tokenomics data={landingPageData.Tokenomics} />
+      <Projects data={landingPageData.Projects}/>
       <Socials data={landingPageData.Socials} />
       <Footer />
     </div>
