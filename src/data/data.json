@@ -100,6 +100,12 @@
 ],
     "Projects": [
         {
+            "icon": "fa fa-bar-chart",
+            "title": "Token Price Tracker",
+            "text": "Tool that tracks the price of tokens native to Kadena",
+            "link": "https://prices.kittykad.com"
+        },
+        {
             "icon": "fa fa-diamond",
             "title": "Kitty Kad NFTs",
             "text": "Claim limited edition and unique randomly generated Kitty Kad NFTs by burning Kitty Kad tokens"
@@ -112,11 +118,6 @@
         "icon": "fa fa-gamepad",
         "title": "Competitions + Bets",
         "text": "Wager Kitty Kad tokens in 1:1 challenges or organised competitions, winner takes the pot"
-    },
-    {
-        "icon": "fa fa-bar-chart",
-        "title": "Token Price Tracker",
-        "text": "Tool that tracks the price of tokens native to Kadena"
     }
 ]
 }
