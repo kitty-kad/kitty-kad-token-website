@@ -40,15 +40,16 @@
             "text": "Follow our updates on Reddit, Twitter or Discord"
         }
     ],
-    "Roadmap": [{
-            "icon": "fa fa-rocket",
-            "title": "Token launch - Q4 '21",
-            "text": "Fair launch will happen across DEX's on the Kadena ecosystem"
-        },
+    "Roadmap": [
         {
             "icon": "fa fa-diamond",
             "title": "NFTs - Q1 '22",
             "text": "Cat themed NFTs coming to the Kadena blockchain"
+        },
+        {
+            "icon": "fa fa-rocket",
+            "title": "Token launch - Q1 '21",
+            "text": "Fair launch will happen across DEX's on the Kadena ecosystem"
         },
         {
             "icon": "fa fa-gamepad",
